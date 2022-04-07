@@ -137,9 +137,6 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
 <section className="relative flex flex-row gap-x-1 lg:gap-x-2 m-1 lg:m-2">
 
 <div className="bg-[url('./images/exteriorday.jpg')] bg-center bg-cover relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal8" type="button">
-    <h2
-      className="absolute uppercase pl-4 lg:pl-10 pb-2 lg:pb-8 bottom-0 font-medium text-lg lg:text-xl text-gray-100 z-20">
-     Day</h2>
 </div>
 
 
@@ -148,9 +145,6 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
 
 
 <div className="bg-[url('./images/exteriornight.jpg')] bg-center bg-cover  relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal9" type="button">
-    <h2
-      className="absolute uppercase pl-4 lg:pl-10 pb-2 lg:pb-8 bottom-0 font-medium text-lg lg:text-xl text-gray-100 z-20">
-     Night</h2>
 </div>
 <div id="defaultModal9" tabindex="-1" aria-hidden="true" className="hidden bg-[url('./images/exteriorday.jpg')] hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 2xl:inset-0 h-modal 2xl:bg-contain 2xl:bg-center bg-no-repeat xl:inset-0 h-modal xl:bg-contain xl:bg-center bg-no-repeat lg:inset-0 h-modal lg:bg-contain lg:bg-center bg-no-repeat md:inset-0 h-modal md:bg-contain md:bg-center bg-no-repeat sm:inset-0 h-modal sm:bg-cover sm:bg-center bg-no-repeat">
 <button data-modal-toggle="defaultModal9" type="button" class="text-white bg-yellow-100 bg-opacity-70 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2"> Close</button></div>
@@ -169,7 +163,7 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
 
 <section className="relative flex flex-row gap-x-1 lg:gap-x-2 m-1 lg:m-2">
 
-<div className="bg-[url('./images/indoor1.jpg')] bg-center bg-cover hover:opacity-60 cursor-pointer relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal" type="button">
+<div className="bg-[url('./images/indoor1.jpg')] bg-center bg-cover cursor-pointer relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal" type="button">
 </div>
 
 <div id="defaultModal" tabindex="-1" aria-hidden="true" className="hidden bg-[url('./images/indoor1.jpg')] hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 2xl:inset-0 h-modal 2xl:bg-contain 2xl:bg-center bg-no-repeat xl:inset-0 h-modal xl:bg-contain xl:bg-center bg-no-repeat lg:inset-0 h-modal lg:bg-contain lg:bg-center bg-no-repeat md:inset-0 h-modal md:bg-contain md:bg-center bg-no-repeat sm:inset-0 h-modal sm:bg-cover sm:bg-center bg-no-repeat">
@@ -178,7 +172,7 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
 
 
 
-<div className="bg-[url('./images/indoor2.jpg')] bg-center bg-cover hover:opacity-60 cursor-pointer relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal1" type="button" >
+<div className="bg-[url('./images/indoor2.jpg')] bg-center bg-cover cursor-pointer relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal1" type="button" >
 </div>
 
 <div id="defaultModal1" tabindex="-1" aria-hidden="true" className="hidden bg-[url('./images/indoor2.jpg')] hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 2xl:inset-0 h-modal 2xl:bg-contain 2xl:bg-center bg-no-repeat xl:inset-0 h-modal xl:bg-contain xl:bg-center bg-no-repeat lg:inset-0 h-modal lg:bg-contain lg:bg-center bg-no-repeat md:inset-0 h-modal md:bg-contain md:bg-center bg-no-repeat sm:inset-0 h-modal sm:bg-cover sm:bg-center bg-no-repeat">
@@ -192,7 +186,7 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
 <section className="relative flex flex-row gap-x-1 lg:gap-x-2 m-1 lg:m-2">
 
 
-<div className="bg-[url('./images/indoor3.jpg')] bg-center bg-cover hover:opacity-60 cursor-pointer relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal2" type="button" >
+<div className="bg-[url('./images/indoor3.jpg')] bg-center bg-cover cursor-pointer relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal2" type="button" >
 </div>
 
 <div id="defaultModal2" tabindex="-1" aria-hidden="true" className="hidden bg-[url('./images/indoor3.jpg')] hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 2xl:inset-0 h-modal 2xl:bg-contain 2xl:bg-center bg-no-repeat xl:inset-0 h-modal xl:bg-contain xl:bg-center bg-no-repeat lg:inset-0 h-modal lg:bg-contain lg:bg-center bg-no-repeat md:inset-0 h-modal md:bg-contain md:bg-center bg-no-repeat sm:inset-0 h-modal sm:bg-cover sm:bg-center bg-no-repeat">
@@ -203,7 +197,7 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
 
 
 
-<div className="bg-[url('./images/indoor4.jpg')] bg-center bg-cover  hover:opacity-60 cursor-pointer relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal3" type="button">
+<div className="bg-[url('./images/indoor4.jpg')] bg-center bg-cover  cursor-pointer relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal3" type="button">
 </div>
 <div id="defaultModal3" tabindex="-1" aria-hidden="true" className="hidden bg-[url('./images/indoor4.jpg')] hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 2xl:inset-0 h-modal 2xl:bg-contain 2xl:bg-center bg-no-repeat xl:inset-0 h-modal xl:bg-contain xl:bg-center bg-no-repeat lg:inset-0 h-modal lg:bg-contain lg:bg-center bg-no-repeat md:inset-0 h-modal md:bg-contain md:bg-center bg-no-repeat sm:inset-0 h-modal sm:bg-cover sm:bg-center bg-no-repeat">
 <button data-modal-toggle="defaultModal3" type="button" class="text-white bg-yellow-100 bg-opacity-70 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2">
@@ -225,7 +219,7 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
 
 <section className="relative flex flex-row gap-x-1 lg:gap-x-2 m-1 lg:m-2">
 
-<div className="bg-[url('./images/outdoor1.jpg')] bg-center bg-cover hover:opacity-60 cursor-pointer relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal4" type="button">
+<div className="bg-[url('./images/outdoor1.jpg')] bg-center bg-cover cursor-pointer relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal4" type="button">
 </div>
 
 <div id="defaultModal4" tabindex="-1" aria-hidden="true" className="hidden bg-[url('./images/outdoor1.jpg')] hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 2xl:inset-0 h-modal 2xl:bg-contain 2xl:bg-center bg-no-repeat xl:inset-0 h-modal xl:bg-contain xl:bg-center bg-no-repeat lg:inset-0 h-modal lg:bg-contain lg:bg-center bg-no-repeat md:inset-0 h-modal md:bg-contain md:bg-center bg-no-repeat sm:inset-0 h-modal sm:bg-cover sm:bg-center bg-no-repeat">
@@ -233,7 +227,7 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
           Close
                 </button></div>
 
-<div className="bg-[url('./images/outdoor2.jpg')] bg-center bg-cover hover:opacity-60 cursor-pointer relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal5" type="button">
+<div className="bg-[url('./images/outdoor2.jpg')] bg-center bg-cover cursor-pointer relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal5" type="button">
 </div>
 
 <div id="defaultModal5" tabindex="-1" aria-hidden="true" className="hidden bg-[url('./images/outdoor2.jpg')] hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 2xl:inset-0 h-modal 2xl:bg-contain 2xl:bg-center bg-no-repeat xl:inset-0 h-modal xl:bg-contain xl:bg-center bg-no-repeat lg:inset-0 h-modal lg:bg-contain lg:bg-center bg-no-repeat md:inset-0 h-modal md:bg-contain md:bg-center bg-no-repeat sm:inset-0 h-modal sm:bg-cover sm:bg-center bg-no-repeat">
@@ -247,7 +241,7 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
 <section className="relative flex flex-row gap-x-1 lg:gap-x-2 m-1 lg:m-2">
 
 
-<div className="bg-[url('./images/outdoor3.jpg')] bg-center bg-cover hover:opacity-60 cursor-pointer relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal6" type="button">
+<div className="bg-[url('./images/outdoor3.jpg')] bg-center bg-cover cursor-pointer relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal6" type="button">
 </div>
 
 <div id="defaultModal6" tabindex="-1" aria-hidden="true" className="hidden bg-[url('./images/outdoor3.jpg')] hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 2xl:inset-0 h-modal 2xl:bg-contain 2xl:bg-center bg-no-repeat xl:inset-0 h-modal xl:bg-contain xl:bg-center bg-no-repeat lg:inset-0 h-modal lg:bg-contain lg:bg-center bg-no-repeat md:inset-0 h-modal md:bg-contain md:bg-center bg-no-repeat sm:inset-0 h-modal sm:bg-cover sm:bg-center bg-no-repeat">
@@ -255,7 +249,7 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
           Close
                 </button></div>
 
-<div className="bg-[url('./images/outdoor4.jpg')] bg-center bg-cover hover:opacity-60 cursor-pointer relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal7" type="button">
+<div className="bg-[url('./images/outdoor4.jpg')] bg-center bg-cover cursor-pointer relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal7" type="button">
 </div>
 
 <div id="defaultModal7" tabindex="-1" aria-hidden="true" className="hidden bg-[url('./images/outdoor4.jpg')] hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 2xl:inset-0 h-modal 2xl:bg-contain 2xl:bg-center bg-no-repeat xl:inset-0 h-modal xl:bg-contain xl:bg-center bg-no-repeat lg:inset-0 h-modal lg:bg-contain lg:bg-center bg-no-repeat md:inset-0 h-modal md:bg-contain md:bg-center bg-no-repeat sm:inset-0 h-modal sm:bg-cover sm:bg-center bg-no-repeat">
