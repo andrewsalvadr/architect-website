@@ -109,8 +109,8 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
             we are hunger for innovation and satisfaction of our client is our main goal. 
           </p>
           <p className="text-gray-600 leading-loose mb-6">
-            We at design at decks would like to offer you free estimate, quote or maybe just an inquiry about your plans and we are happy to help.
-            Just message us below in this simply website because we don't want to over complicate things for our future clients and hopefully that is you.
+            Design at decks would like to offer you free estimate costs, quote or maybe just an inquiry about your plans and we are happy to help.
+            Just message us below in this simply website because we don't want to over complicate things for our future client and hopefully that is you.
           </p>
           <p className="text-gray-600 leading-loose mb-6">
             Thank you
@@ -141,13 +141,13 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
 
 
 <div id="defaultModal8" tabindex="-1" aria-hidden="true" className="hidden bg-[url('./images/exteriorday.jpg')] hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 2xl:inset-0 h-modal 2xl:bg-contain 2xl:bg-center bg-no-repeat xl:inset-0 h-modal xl:bg-contain xl:bg-center bg-no-repeat lg:inset-0 h-modal lg:bg-contain lg:bg-center bg-no-repeat md:inset-0 h-modal md:bg-contain md:bg-center bg-no-repeat sm:inset-0 h-modal sm:bg-cover sm:bg-center bg-no-repeat">
-<button data-modal-toggle="defaultModal8" type="button" class="text-white bg-yellow-100 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2"> Close</button></div>
+<button data-modal-toggle="defaultModal8" type="button" class="text-yellow bg-white bg-opacity-70 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2"> Close</button></div>
 
 
 <div className="bg-[url('./images/exteriornight.jpg')] bg-center bg-cover  relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal9" type="button">
 </div>
 <div id="defaultModal9" tabindex="-1" aria-hidden="true" className="hidden bg-[url('./images/exteriorday.jpg')] hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 2xl:inset-0 h-modal 2xl:bg-contain 2xl:bg-center bg-no-repeat xl:inset-0 h-modal xl:bg-contain xl:bg-center bg-no-repeat lg:inset-0 h-modal lg:bg-contain lg:bg-center bg-no-repeat md:inset-0 h-modal md:bg-contain md:bg-center bg-no-repeat sm:inset-0 h-modal sm:bg-cover sm:bg-center bg-no-repeat">
-<button data-modal-toggle="defaultModal9" type="button" class="text-white bg-yellow-100 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2"> Close</button></div>
+<button data-modal-toggle="defaultModal9" type="button" class="text-yellow bg-white bg-opacity-70 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2"> Close</button></div>
 
 
 
@@ -167,7 +167,7 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
 </div>
 
 <div id="defaultModal" tabindex="-1" aria-hidden="true" className="hidden bg-[url('./images/indoor1.jpg')] hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 2xl:inset-0 h-modal 2xl:bg-contain 2xl:bg-center bg-no-repeat xl:inset-0 h-modal xl:bg-contain xl:bg-center bg-no-repeat lg:inset-0 h-modal lg:bg-contain lg:bg-center bg-no-repeat md:inset-0 h-modal md:bg-contain md:bg-center bg-no-repeat sm:inset-0 h-modal sm:bg-cover sm:bg-center bg-no-repeat">
-<button data-modal-toggle="defaultModal" type="button" class="text-white bg-yellow-100 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2"> Close</button></div>
+<button data-modal-toggle="defaultModal" type="button" class="text-yellow bg-white bg-opacity-70 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2"> Close</button></div>
 
 
 
@@ -176,7 +176,7 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
 </div>
 
 <div id="defaultModal1" tabindex="-1" aria-hidden="true" className="hidden bg-[url('./images/indoor2.jpg')] hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 2xl:inset-0 h-modal 2xl:bg-contain 2xl:bg-center bg-no-repeat xl:inset-0 h-modal xl:bg-contain xl:bg-center bg-no-repeat lg:inset-0 h-modal lg:bg-contain lg:bg-center bg-no-repeat md:inset-0 h-modal md:bg-contain md:bg-center bg-no-repeat sm:inset-0 h-modal sm:bg-cover sm:bg-center bg-no-repeat">
-<button data-modal-toggle="defaultModal1" type="button" class="text-white bg-yellow-100 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2">
+<button data-modal-toggle="defaultModal1" type="button" class="text-yellow bg-white bg-opacity-70 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2">
           Close
                 </button></div>
 
@@ -190,7 +190,7 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
 </div>
 
 <div id="defaultModal2" tabindex="-1" aria-hidden="true" className="hidden bg-[url('./images/indoor3.jpg')] hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 2xl:inset-0 h-modal 2xl:bg-contain 2xl:bg-center bg-no-repeat xl:inset-0 h-modal xl:bg-contain xl:bg-center bg-no-repeat lg:inset-0 h-modal lg:bg-contain lg:bg-center bg-no-repeat md:inset-0 h-modal md:bg-contain md:bg-center bg-no-repeat sm:inset-0 h-modal sm:bg-cover sm:bg-center bg-no-repeat">
-<button data-modal-toggle="defaultModal2" type="button" class="text-white bg-yellow-100 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2">
+<button data-modal-toggle="defaultModal2" type="button" class="text-yellow bg-white bg-opacity-70 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2">
           Close
                 </button></div>
 
@@ -200,7 +200,7 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
 <div className="bg-[url('./images/indoor4.jpg')] bg-center bg-cover  cursor-pointer relative h-60 flex-grow-1 w-full" data-modal-toggle="defaultModal3" type="button">
 </div>
 <div id="defaultModal3" tabindex="-1" aria-hidden="true" className="hidden bg-[url('./images/indoor4.jpg')] hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 2xl:inset-0 h-modal 2xl:bg-contain 2xl:bg-center bg-no-repeat xl:inset-0 h-modal xl:bg-contain xl:bg-center bg-no-repeat lg:inset-0 h-modal lg:bg-contain lg:bg-center bg-no-repeat md:inset-0 h-modal md:bg-contain md:bg-center bg-no-repeat sm:inset-0 h-modal sm:bg-cover sm:bg-center bg-no-repeat">
-<button data-modal-toggle="defaultModal3" type="button" class="text-white bg-yellow-100 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2">
+<button data-modal-toggle="defaultModal3" type="button" class="text-yellow bg-white bg-opacity-70 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2">
           Close
                 </button></div>
 
@@ -223,7 +223,7 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
 </div>
 
 <div id="defaultModal4" tabindex="-1" aria-hidden="true" className="hidden bg-[url('./images/outdoor1.jpg')] hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 2xl:inset-0 h-modal 2xl:bg-contain 2xl:bg-center bg-no-repeat xl:inset-0 h-modal xl:bg-contain xl:bg-center bg-no-repeat lg:inset-0 h-modal lg:bg-contain lg:bg-center bg-no-repeat md:inset-0 h-modal md:bg-contain md:bg-center bg-no-repeat sm:inset-0 h-modal sm:bg-cover sm:bg-center bg-no-repeat">
-<button data-modal-toggle="defaultModal4" type="button" class="text-white bg-yellow-100 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2">
+<button data-modal-toggle="defaultModal4" type="button" class="text-yellow bg-white bg-opacity-70 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2">
           Close
                 </button></div>
 
@@ -231,7 +231,7 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
 </div>
 
 <div id="defaultModal5" tabindex="-1" aria-hidden="true" className="hidden bg-[url('./images/outdoor2.jpg')] hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 2xl:inset-0 h-modal 2xl:bg-contain 2xl:bg-center bg-no-repeat xl:inset-0 h-modal xl:bg-contain xl:bg-center bg-no-repeat lg:inset-0 h-modal lg:bg-contain lg:bg-center bg-no-repeat md:inset-0 h-modal md:bg-contain md:bg-center bg-no-repeat sm:inset-0 h-modal sm:bg-cover sm:bg-center bg-no-repeat">
-<button data-modal-toggle="defaultModal5" type="button" class="text-white bg-yellow-100 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2">
+<button data-modal-toggle="defaultModal5" type="button" class="text-yellow bg-white bg-opacity-70 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2">
           Close
                 </button></div>
 
@@ -245,7 +245,7 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
 </div>
 
 <div id="defaultModal6" tabindex="-1" aria-hidden="true" className="hidden bg-[url('./images/outdoor3.jpg')] hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 2xl:inset-0 h-modal 2xl:bg-contain 2xl:bg-center bg-no-repeat xl:inset-0 h-modal xl:bg-contain xl:bg-center bg-no-repeat lg:inset-0 h-modal lg:bg-contain lg:bg-center bg-no-repeat md:inset-0 h-modal md:bg-contain md:bg-center bg-no-repeat sm:inset-0 h-modal sm:bg-cover sm:bg-center bg-no-repeat">
-<button data-modal-toggle="defaultModal6" type="button" class="text-white bg-yellow-100 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2">
+<button data-modal-toggle="defaultModal6" type="button" class="text-yellow bg-white bg-opacity-70 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2">
           Close
                 </button></div>
 
@@ -253,7 +253,7 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
 </div>
 
 <div id="defaultModal7" tabindex="-1" aria-hidden="true" className="hidden bg-[url('./images/outdoor4.jpg')] hidden overflow-y-auto overflow-x-hidden fixed top-0 right-0 left-0 z-50 2xl:inset-0 h-modal 2xl:bg-contain 2xl:bg-center bg-no-repeat xl:inset-0 h-modal xl:bg-contain xl:bg-center bg-no-repeat lg:inset-0 h-modal lg:bg-contain lg:bg-center bg-no-repeat md:inset-0 h-modal md:bg-contain md:bg-center bg-no-repeat sm:inset-0 h-modal sm:bg-cover sm:bg-center bg-no-repeat">
-<button data-modal-toggle="defaultModal7" type="button" class="text-white bg-yellow-100 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2">
+<button data-modal-toggle="defaultModal7" type="button" class="text-yellow bg-white bg-opacity-70 hover:bg-yellow-300-bg-opacity-50 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm inline-flex items-center px-5 py-2.5 text-center mr-2">
           Close
                 </button></div>
 
@@ -269,7 +269,7 @@ emailjs.sendForm('service_qlk1ry8', 'template_hiljcmc', e.target, 'L32JRkpcPjOPX
 
           <div className='mt-6 p-6 text-center' id="quote">
         <h1 className='mt-5 p-0 text-4xl text-theme'>Get in touch</h1>
-        <h1 className='mt-0 p-6 text-2xl text-theme'>Free Estimate & Quote</h1>
+        <h1 className='mt-0 p-6 text-2xl text-theme'>Free Estimate Costs & Quote</h1>
         </div>
         <div className='mt-6 flex justify-center'>
     <form class="w-full max-w-lg" onSubmit={sendEmail}>
